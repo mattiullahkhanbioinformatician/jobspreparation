@@ -2,9 +2,14 @@
   {
     "id": 1775272331621,
     "title": "New Post",
-    "content": "",
+    "content": "<h1>Welcome</h1>",
     "tags": [],
-    "links": []
+    "links": [
+      {
+        "title": "Download now",
+        "url": "https://download.com"
+      }
+    ]
   },
   {
     "id": 1775272311236,
