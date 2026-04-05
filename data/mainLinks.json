@@ -3,7 +3,10 @@
     "label": "Contact",
     "href": "/contact",
     "id": 1775273125024,
-    "content": "<p>Here is about page given and you can contact us on <b>+9230619966360</b>.</p>"
+    "content": "        \n        <!-- Header -->\n        <div style=\"background:#0d6efd; color:white; padding:20px; border-radius:10px;\">\n            <h1 style=\"margin:0; text-align:start;\">Contact Us</h1>\n            <p style=\"margin:5px 0 0 0; text-align:start;\">All Jobs Info</p>\n        </div>\n\n        <!-- Content -->\n        <div style=\"background:white; padding:20px; margin-top:20px; border-radius:10px; box-shadow:0 2px 10px rgba(0,0,0,0.1);\">\n            \n            <p style=\"text-align:start; line-height:1.6;\">\n                If you have any questions, suggestions, or need further information, feel free to contact us. We are always here to help you.\n            </p>\n\n            <h3 style=\"text-align:start;\">Contact Details</h3>\n\n            <p style=\"text-align:start; line-height:1.6;\">\n                <strong>Phone:</strong> +923061966360\n            </p>\n\n            <p style=\"text-align:start; line-height:1.6;\">\n                <strong>Email:</strong> mattiullahkhan860@gmail.com\n            </p>\n\n            <h3 style=\"text-align:start;\">Support</h3>\n\n            <p style=\"text-align:start; line-height:1.6;\">\n                For job updates, queries, or any issues related to our website, you can contact us through the above details. We will try to respond as soon as possible.\n            </p>\n\n        </div>\n\n        \n\n ",
+    "seoTitle": "Contact Us - All Jobs Info Pakistan | Get in Touch",
+    "seoDescription": "All Jobs Info Pakistan for job updates, queries, and support. Reach us via phone or email for the latest government and private job information.",
+    "seoKeywords": "contact All Jobs Info, jobs Pakistan contact, job alerts support Pakistan, government jobs help, contact jobs website Pakistan, job queries support"
   },
   {
     "label": "About",
